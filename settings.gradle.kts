@@ -14,3 +14,5 @@ dependencyResolutionManagement {
 }
 rootProject.name = "MarvelHeroes"
 include(":app")
+include(":commons")
+include(":characters-feature")
